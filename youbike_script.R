@@ -1,5 +1,5 @@
 # Set working directory
-setwd("C:/Users/kwz50/OneDrive/桌面/生統報告")
+setwd("your_repository_path")
 
 # Load data for uncharged bikes
 bike_uncharged <- read.delim("bikeR1.txt", row.names = NULL)
